@@ -1,0 +1,115 @@
+{
+    "nombreApp" : "AlpaMeditate",
+    "rutas" : [
+        {
+            "_id"         : "01",
+            "nombre"      : "Anapana",
+            "url"         : "//-----------------",
+            "propietario" : "AlpaMeditate",
+            "fecha"       : "29/07/2020",
+            "dificultad"  : "medio",
+            "tipo"        : "Silenciosa",
+            "tiempo"      : "20",
+            "descripcion" : "----bla bla ----"
+        },
+        {
+            "_id"         : "02",
+            "nombre"      : "Respiracion",
+            "url"         : "//-----------------",
+            "propietario" : "AlpaMeditate",
+            "fecha"       : "29/07/2020",
+            "dificultad"  : "facil",
+            "tipo"        : "Video",
+            "tiempo"      : "10",
+            "descripcion" : "----bla bla ----"
+        },
+        {
+            "_id"         : "03",
+            "nombre"      : "Meditacion Zen",
+            "url"         : "//-----------------",
+            "propietario" : "AlpaMeditate",
+            "fecha"       : "29/07/2020",
+            "dificultad"  : "alto",
+            "tipo"        : "Silenciosa",
+            "tiempo"      : "20",
+            "descripcion" : "----bla bla ----"
+        },
+        {
+            "_id"         : "04",
+            "nombre"      : "Vipassana",
+            "url"         : "//-----------------",
+            "propietario" : "AlpaMeditate",
+            "fecha"       : "29/07/2020",
+            "dificultad"  : "medio",
+            "tipo"        : "Guiada",
+            "tiempo"      : "20",
+            "descripcion" : "----bla bla ----"
+        },
+        {
+            "_id"         : "05",
+            "nombre"      : "Meditacion Guiada--Santiago ",
+            "url"         : "//-----------------",
+            "propietario" : "AlpaMeditate",
+            "fecha"       : "29/07/2020",
+            "dificultad"  : "medio",
+            "tipo"        : "Guiada",
+            "tiempo"      : "10",
+            "descripcion" : "----bla bla ----"
+        },
+        {
+            "_id"         : "01",
+            "nombre"      : "Anapana",
+            "url"         : "//-----------------",
+            "propietario" : "AlpaMeditate",
+            "fecha"       : "29/07/2020",
+            "dificultad"  : "medio",
+            "tipo"        : "Silenciosa",
+            "tiempo"      : "20",
+            "descripcion" : "----bla bla ----"
+        },
+        {
+            "_id"         : "02",
+            "nombre"      : "Respiracion",
+            "url"         : "//-----------------",
+            "propietario" : "AlpaMeditate",
+            "fecha"       : "29/07/2020",
+            "dificultad"  : "facil",
+            "tipo"        : "Video",
+            "tiempo"      : "10",
+            "descripcion" : "----bla bla ----"
+        },
+        {
+            "_id"         : "03",
+            "nombre"      : "Meditacion Zen",
+            "url"         : "//-----------------",
+            "propietario" : "AlpaMeditate",
+            "fecha"       : "29/07/2020",
+            "dificultad"  : "alto",
+            "tipo"        : "Silenciosa",
+            "tiempo"      : "20",
+            "descripcion" : "----bla bla ----"
+        },
+        {
+            "_id"         : "04",
+            "nombre"      : "Vipassana",
+            "url"         : "//-----------------",
+            "propietario" : "AlpaMeditate",
+            "fecha"       : "29/07/2020",
+            "dificultad"  : "medio",
+            "tipo"        : "Guiada",
+            "tiempo"      : "20",
+            "descripcion" : "----bla bla ----"
+        },
+        {
+            "_id"         : "05",
+            "nombre"      : "Meditacion Guiada--Santiago ",
+            "url"         : "//-----------------",
+            "propietario" : "AlpaMeditate",
+            "fecha"       : "29/07/2020",
+            "dificultad"  : "medio",
+            "tipo"        : "Guiada",
+            "tiempo"      : "10",
+            "descripcion" : "----bla bla ----"
+        }
+    ]
+}
